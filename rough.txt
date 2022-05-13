@@ -1,0 +1,9 @@
+.box-heading{
+    background-color:aquamarine;
+    border: 5px red solid;
+    border-width: 6px;
+}
+
+.box-2 h1{
+    text-transform: capitalize;
+}
